@@ -27,6 +27,6 @@
 
 <div>
 <a href="https://github.com/Sponchiatto">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sponchiatto)](https://github.com/Sponchiatto/github-readme-stats)
+
 
 </div>
