@@ -1,32 +1,39 @@
-### Olá meu nome é Rafael,
+### Olá meu nome é Rafael Sponchiatto,
 
-- 🔭 Hoje estou buscando conhecimento no desenvolvimento front-end e back-end para aplicação web e conseguir meu primeiro emprego na área, como Junior.
-- 🌱 Estou começando pelo pront-end nas linguagens HTML e CSS. Porém, tenho uma noção de JavaScript. E também PHP.
-- 🤔 Praticamente estou numa transição de carreira, me formei em Engenharia Biomédica e utilizei Python durante alguns projetos da graduação. O que me atraiu para a área de Dev, foi um projeto que desenvolvi numa ONG chamada Cultivare e quero melhorar ele até o limite possível. Se quiser saber mais só chamar.
-- 📫 Contate-me no email: rafael_sponchiatto@hotmail.com
-- ⚡ Sou da cidade de Santo André - SP.
-- 💬 Pergunte-me sobre meu projeto.
+- 🤙 Quem sou eu? Formado Engenheiro Biomédico e buscando conhecimento na área de programação, mais especificamente desenvolvimento web Front-End, a principio.
+- 🌱 O que estou estudando? Atualmente, estou estudando HTML, CSS e Javascript. Mas fiz projetos utilizando Wordpress, Php e python
+- 🤔 Porque estou estudando programação? Após uma experiência com desenvolvimento web de uma aplicação, pela ONG que sou voluntário (Cultivare), fiquei interessado pela área de desenvolvimento, percebi que se eu me dedicar poderia fazer qualquer coisa e me dar muito bem.
+- 💡 Mas que projeto foi esse? O Projeto em desenvolvimento Cultivare, consiste num sistema de Auxílio a decisão médica - SADM. Ele foi desenvolvido num período que eu não tinha conhecimento de desenvolvimento web, porém, aceitei o desafio e consegui estruturar junto com o time uma aplicação utilizando Wordpress, Php e Javascript.
+- 😎 E qual meu Objetivo? Me tornar um desenvolvedor FullStack.
 
 ### Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/> <!-- 
---> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <!--
---> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <!--
---> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <!--
---> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/> 
+<div style= "display: inline_block"><br/> 
+  <img align = "center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align = "center" alt = "css3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align = "center" alt = "JavaScript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align = "center" alt = "Php" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img align = "center" alt = "WordPress" src = "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</div>
 
-### Contatos
+### Minhas Redes
 
 <div>
-
+🌟 <a href="#" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 🌟
+<a href="mailto: rafael_sponchiatto@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafaelspon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
 
+### Meus contatos 
+- 📫 Contate-me no email: rafael_sponchiatto@hotmail.com
+- 📱 Celular: 
+- ⚡ Sou da cidade de Santo André - SP.
+
 ### Estatísticas GitHub
+![Sponchiatto GitHub stats](https://github-readme-stats.vercel.app/api?username=Sponchiatto&show_icons=true&theme=tokyonight)
 
-<div>
-<a href="https://github.com/Sponchiatto">
+### Agradecimentos
 
+Obrigado por ter lido até aqui, espero que tenha gostado. Se tiver alguma sugestão, dica, crítica. Ou quiser requisitar meus serviços. Estou a disposição. 
 
-</div>
