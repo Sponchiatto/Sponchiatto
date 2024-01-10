@@ -1,8 +1,8 @@
 ### Olá meu nome é Rafael Sponchiatto,
 
-- 🤙 Quem sou eu? Formado Engenheiro Biomédico e buscando conhecimento na área de programação, mais especificamente desenvolvimento web Front-End, a principio.
-- 🌱 O que estou estudando? Atualmente, estou estudando HTML, CSS e Javascript. Mas fiz projetos utilizando Wordpress, Php e python
-- 🤔 Porque estou estudando programação? Após uma experiência com desenvolvimento web de uma aplicação, pela ONG que sou voluntário (Cultivare), fiquei interessado pela área de desenvolvimento, percebi que se eu me dedicar poderia fazer qualquer coisa e me dar muito bem.
+- 🤙 Quem sou eu? Formado Engenheiro Biomédico, me especializando na área de programação, mais especificamente desenvolvimento web Front-End, e partir para outras frentes.
+- 🌱 O que estou estudando? Atualmente, estou consolidando minha lógica de programação com JavaScript e iniciando meus estudos com React. Mas em outros momentos mexo com outras ferramentas por causa das tarefas que preciso desempenhar na Cultivare, ONG no qual sou voluntário
+- 🤔 Porque estou estudando programação? Após uma experiência com desenvolvimento web de uma aplicação, pela ONG que sou voluntário (Cultivare), me interessei pela área de desenvolvimento web / programação.
 - 💡 Mas que projeto foi esse? O Projeto em desenvolvimento Cultivare, consiste num sistema de Auxílio a decisão médica - SADM. Ele foi desenvolvido num período que eu não tinha conhecimento de desenvolvimento web, porém, aceitei o desafio e consegui estruturar junto com o time uma aplicação utilizando Wordpress, Php e Javascript.
 - 😎 E qual meu Objetivo? Me tornar um desenvolvedor FullStack.
 
