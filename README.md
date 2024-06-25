@@ -33,5 +33,5 @@
 
 ### Agradecimentos
 
-Obrigado por ter lido até aqui, espero que tenha gostado. Se tiver alguma sugestão, dica, crítica. Ou quiser requisitar meus serviços. Estou a disposição. 
+Obrigado por ter lido até aqui, espero que tenha gostado. Se tiver alguma sugestão, dica, crítica. Se quiser requisitar meus serviços. Estou a disposição. 
 
